@@ -119,7 +119,7 @@ $(".confirm-disablelogging-noflush").confirm({
 
 $(".api-token").confirm({
   text:
-    "确保没有其他人可以扫描您周围的代码。他们无需知道密码即可完全访问API。 请注意，QR码的生成将花费一些时间。",#
+    "确保没有其他人可以扫描您周围的代码。他们无需知道密码即可完全访问API。 请注意，QR码的生成将花费一些时间。",
   title: "需要确认的操作！",
   confirm: function() {
     window.open("scripts/pi-hole/php/api_token.php");
