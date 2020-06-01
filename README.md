@@ -6,3 +6,4 @@
 部分内容已根据语言习惯进行优化，可能与原文不符。
 如有翻译错误，还请指正。
 直接解压admin.zip覆盖到/var/www/html/admin即可
+2020.6.1 已修复settings.js的错.误请下载scripts/pi-hole/js/settings.js覆盖有bug的版本。
